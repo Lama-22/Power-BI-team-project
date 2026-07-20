@@ -1,0 +1,2 @@
+Updated dashboard layout.
+Improved chart colors and formatting.
