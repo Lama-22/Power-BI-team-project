@@ -1,0 +1,2 @@
+Added sales and profit DAX measures.
+Improved calculation performance.
